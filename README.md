@@ -31,3 +31,8 @@ samples, guidance on mobile development, and a full API reference.
 - flutter 프로잭트 생성 및 실행
 - 애뮬레이터 실행 실행
 - Hello world 출력
+
+# 3주차 
+- main.dart,todo_list.dart 작업
+
+# 4주차
